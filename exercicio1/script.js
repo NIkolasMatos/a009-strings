@@ -1,0 +1,6 @@
+let nome = prompt('qual seu nome?')
+let comida1 = prompt('qual a sua comida favorita?')
+let comida2 = prompt('huuum! deve ser uma delicia, tem outra comida favorita?')
+let comida3 = prompt('ah muito bom! me diz só mais uma agora, juro que é a última.')
+console.log(`então você se chama ${nome} e gosta de comer, ${comida1} ,${comida2}, ${comida3}, é isso? parece ser muito bom!`)
+console.log('então você se chama ' + nome + 'e gosta de comer ' + comida1, ',' + comida2)
